@@ -5,8 +5,6 @@ An aspiring **Core Blockchain Developer** and lifelong learner, currently buildi
 ### 🛠️ What I'm Learning & Using:
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Linux_Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
